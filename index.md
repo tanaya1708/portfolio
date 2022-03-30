@@ -76,7 +76,6 @@ I intend to build a career in a leading corporate hi-tech environment with commi
 
 | Degree        | College/University name        | Duration |
 |:-------------|:------------------|:------|
-
 | Bachelor of Engineering in Information Technology | Mumbai University | 2017 - 2021  |
 | 12 <sup>th</sup>          | SVVM wada     | 2016 - 2017   |
 | 10 <sup>th</sup>          | Little Angel's English medium School | 2014 - 2015  |
