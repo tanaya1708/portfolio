@@ -30,7 +30,8 @@ I intend to build a career in a leading corporate hi-tech environment with commi
 *   Problem Solving Skills and Leadership.
 
 ### Cyber Security Trainee(Feb 2019 - Mar 2019) at ATS Group
-* Worked with JP Morgan Chase frameworks and learned about data visualization and other state of technologies.
+* Install and operate on a SIEM platform (used for cyber security monitoring) such as Splunk
+* Work on cyber security investigations/log analysis
 
 ## Personal Projects/Publications
 
