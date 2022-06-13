@@ -6,6 +6,7 @@ I intend to build a career in a leading corporate hi-tech environment with commi
 
 ## Experience
 ### Software Engineer, Capgemini 
+[Resume](https://github.com/tanaya1708/resume/blob/main/Tanayaresume.pdf)
 ##### Full-time  (Present)
 * 	Hands on experience in creating microservices with Springboot, Spring Security, SpringREST, Spring Cloud API Gateway(Neflix Zuul) and Eureka server, Swagger.
 * 	Good Knowlegde of Java , Collections, Lambda and Stream API & intermediate knowledge of Junit testing.
